@@ -19,14 +19,26 @@ So, we began gathering evidence and discovered some facts.
 5. The slides were an absolute cluster of information. Different languages, nonsense words and phrases, popular meme slogans and sayings, random images and videos made up the content of them.
 6. However, nothing within the slides was outright malicious, spam, or illicit. Everything pointed back to a company by the name of "Takashumi Holdings Company".
 7. The slides also linked exclusively to a google sites website, displaying the same company name.
-8. This website was massive and sprawling, with the worst UX I've ever seen. It contained thousands of hyperlinks, external pages, and was composed primarily of linked google docs and google slides (like the ones that brought Val here) [Image2]
+8. This website was massive and sprawling, with the worst UX I've ever seen. It contained thousands of hyperlinks, external pages, and was composed primarily of linked google docs and google slides (like the ones that brought Val here) 
 9. By far the website was one of the largest I've ever seen. The content appeared to be more chaos than anything else, but there was a lot of content.
-10. The google site appeared to be one of many satellite sites. In the top left, the site was described as "T61 PreSite Free", and via hyperlinks more sites were discovered (T1 and so on). [Image3]
+10. The google site appeared to be one of many satellite sites. In the top left, the site was described as "T61 PreSite Free", and via hyperlinks more sites were discovered (T1 and so on).
+
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/images/google-site.png" alt="Google Site" width="300" />
+
 11. Site manager email appeared to be "015cameoavenue@gmail.com". Searching this email yielded nothing new.
-12. Buried within the site a name was found, "David Evans" and a picture of a middle aged man. Reverse-image searching, we found that this man is on the board of Education at a Missouri school (same photo). [Image5]
+12. Buried within the site a name was found, "David Evans" and a picture of a middle aged man. Reverse-image searching, we found that this man is on the board of Education at a Missouri school (same photo).
+
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/images/david.png" alt="Google Site" width="300" />
+
 13. Searching for the company name yielded the same google site, a Facebook page, Twitter account, Youtube account, and Instagram among other accounts also by the same name.
 14. These additional social media accounts also appeared to follow the same nonsense format - posting completely random photos and comments across each other's accounts.
-15. On twitter, a user "Andy Baio" tweeted out a link to the google site on November 13th, 2020. Andy is a prolific developer, who has many followers, and appeared to be in control of his account after that random tweet. [Image4]
+
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/images/youtube.png" alt="Google Site" width="300" />
+
+15. On twitter, a user "Andy Baio" tweeted out a link to the google site on November 13th, 2020. Andy is a prolific developer, who has many followers, and appeared to be in control of his account after that random tweet.
+
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/images/tweet.png" alt="Google Site" width="300" />
+
 16. Performing steganography scans on some of the website images yielded no hidden data.
 17. At some point in the maze of google slides and sub-sites, the name "Cicada 3301" was referenced. This is a famous internet cyrptography/stegonography puzzle that started in 2012.
 
