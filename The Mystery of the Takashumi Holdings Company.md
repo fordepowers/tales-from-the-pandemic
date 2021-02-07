@@ -3,7 +3,7 @@
 ## The setup
 Valentin Molina noticed on his google slide account that there were several shared slides that appeared to be compromised.
 
-<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/slides.png" alt="Google Slides" width="300" />
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/slides.png" alt="Google Slides" />
 
 He didn't have ownership over these slide sets, and at first glance they appeared to either be spam or outright malicious.
 Immediately, we assumed his google account had been compromised. I got on a Discord call with him to try and do some incident response, see if we couldn't contain and assess the damage, and pinpoint the entry point and attacker.
@@ -23,21 +23,21 @@ So, we began gathering evidence and discovered some facts.
 9. By far the website was one of the largest I've ever seen. The content appeared to be more chaos than anything else, but there was a lot of content.
 10. The google site appeared to be one of many satellite sites. In the top left, the site was described as "T61 PreSite Free", and via hyperlinks more sites were discovered (T1 and so on).
 
-<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/google-site.png" alt="Google Site" width="300" />
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/google-site.png" alt="Google Site" />
 
 11. Site manager email appeared to be "015cameoavenue@gmail.com". Searching this email yielded nothing new.
 12. Buried within the site a name was found, "David Evans" and a picture of a middle aged man. Reverse-image searching, we found that this man is on the board of Education at a Missouri school (same photo).
 
-<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/david.png" alt="Google Site" width="300" />
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/david.png" alt="Google Site" />
 
 13. Searching for the company name yielded the same google site, a Facebook page, Twitter account, Youtube account, and Instagram among other accounts also by the same name.
 14. These additional social media accounts also appeared to follow the same nonsense format - posting completely random photos and comments across each other's accounts.
 
-<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/youtube.png" alt="Google Site" width="300" />
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/youtube.png" alt="Google Site" />
 
 15. On twitter, a user "Andy Baio" tweeted out a link to the google site on November 13th, 2020. Andy is a prolific developer, who has many followers, and appeared to be in control of his account after that random tweet.
 
-<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/tweet.png" alt="Google Site" width="300" />
+<img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/tweet.png" alt="Google Site" />
 
 16. Performing steganography scans on some of the website images yielded no hidden data.
 17. At some point in the maze of google slides and sub-sites, the name "Cicada 3301" was referenced. This is a famous internet cyrptography/stegonography puzzle that started in 2012.
