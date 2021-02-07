@@ -1,7 +1,7 @@
 # The Mystery of the Takashumi Holdings Company
 
 ## The setup
-Valentin Molina noticed on his google slide account that there were several shared slides that appeared to be compromised.
+A friend of mine, Val, noticed on his google slide account that there were several shared slides that appeared to be compromised.
 
 <img src="https://github.com/fordepowers/tales-from-the-pandemic/blob/master/images/slides.png" alt="Google Slides" />
 
